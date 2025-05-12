@@ -11,7 +11,7 @@ This project is a web application that predicts agricultural yield based on vari
 
 3. Clone the repository:  
    ```bash  
-   git clone https://github.com/ltfrosty/webapp.git  
+   git clone https://github.com/ltfrosty/Rice-Yield-Predictor.git
    ```  
 
 ### Navigate to the Project Directory  
