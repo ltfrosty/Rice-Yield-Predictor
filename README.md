@@ -1,5 +1,7 @@
 # Rice Yield Predictor Web App
-This project is a web application that predicts agricultural yield based on various input parameters such as energy use, water use, fertilizer use, pesticide use, rural population, and pesticide imports.  
+This project is a web application that predicts agricultural yield based on various input parameters such as energy use, water use, fertilizer use, pesticide use, rural population, and pesticide imports. 
+
+Done using Python, Pandas, Matplotlib and Flask. 
 
 Created by Sam, Wei Yang, Deva and Faustina for 01.020 Design Thinking Project III.
 
