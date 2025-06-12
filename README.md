@@ -35,15 +35,15 @@ Created by Sam, Wei Yang, Deva and Faustina for 01.020 Design Thinking Project I
 
 1. Ensure **pipenv** is installed:  
    ```bash  
-   pip install --user pipenv  
+   python -m pip install --user pipenv  
    ```  
 2. Install project dependencies:  
    ```bash  
-   pipenv install  
+   python -m pipenv install
    ```  
 3. Activate the virtual environment:  
    ```bash  
-   pipenv shell  
+   python -m pipenv shell
    ```  
 
 ### Run the Web App  
